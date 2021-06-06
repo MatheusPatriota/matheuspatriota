@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello World I'm Matheus 👋
+
+I am a student of Software Engineering  at Federal Institute of Pernambuco (IFPE) . I like to learn about new technologies, I've had experiences in mobile and web development, I like to create projects that challenge me, that develop my personal skills and increasingly improve my vision as a developer.
+
+I am currently an intern at @Alest as a software developer.
+
+⚡ The world is even bigger out there, let's conquer it ⚡
 
 <!--
 **MatheusPatriota/matheuspatriota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
