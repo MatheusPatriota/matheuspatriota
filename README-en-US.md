@@ -69,7 +69,7 @@ Veja Também em [Português](README.md),[English](README-en-US.md)
 
 <p align="center"> 
 
- ## Total de Visitas no perfil :detective: <br>
+ ## Total Profile Views :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/MatheusPatriota/count.svg" />
  </p>
