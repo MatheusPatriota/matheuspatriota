@@ -1,4 +1,4 @@
-Veja Também em [Português](README.md),[English](README-en-US.md)
+Veja Também em [Português](README.md), [English](README-en-US.md)
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -16,7 +16,7 @@ Veja Também em [Português](README.md),[English](README-en-US.md)
   </a>
 </p>
 
-## Hello World sou o Matheus! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Olá Mundo sou o Matheus! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Abstract
 
