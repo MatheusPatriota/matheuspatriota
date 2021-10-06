@@ -21,7 +21,7 @@ Veja Também em [Português](README.md), [English](README-en-US.md)
 ### Abstract
 
 - 👨‍💻 Intern at **Alest**.
-- 🌱 Software Engineering Student, 4th semester.
+- 🌱 Software Engineering Student, 5th semester.
 - 💙 Interest: Flutter, React (Native/JS), HTML, CSS, JavaScript, Java, Python, Firebase, Node JS, MySql.
 - :video_game: Are you in the mood to play something? here we go
 
