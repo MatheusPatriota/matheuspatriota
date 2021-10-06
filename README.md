@@ -21,7 +21,7 @@ Veja Também em [Português](README.md), [English](README-en-US.md)
 ### Abstract
 
 - 👨‍💻 Estagiário na **Alest**.
-- 🌱 Estudante de Engenharia de Software, 4° semestre.
+- 🌱 Estudante de Engenharia de Software, 5° semestre.
 - 💙 Interesse: Flutter, React (Native/JS), HTML, CSS, JavaScript, Java, Python, Firebase, Node JS, MySql.
 - :video_game: Ta afim de jogar alguma coisa? Chamaa
 
