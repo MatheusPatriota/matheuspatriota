@@ -27,7 +27,7 @@
 </div>
 </p>
 
-- 👨‍💻 Tech Lead na  <a href="https://alest.com.br/">**Alest Consultoria**</a>.
+- 👨‍💻 Software Engineer na  <a href="https://www.kunumi.com/">**Kunumi**</a>.
 - 🚀 Estudante de Engenharia de Software, 6° semestre.
 - 💙 Interesse: Flutter, React (Native/JS), HTML, CSS, JavaScript, Java, Python, Firebase, Node JS, MySql.
 - :video_game: Meu principal hobbie é me divertir jogando com meus amigos :)
