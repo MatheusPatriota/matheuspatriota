@@ -1,5 +1,5 @@
 
-## Olá Mundo sou Matheus Patriota e crio conteúdo de programação e tecnologia! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Olá Mundo sou Matheus Patriota e crio conteúdo de programação e tecnologia! </h2>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
