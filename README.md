@@ -27,10 +27,10 @@
 </div>
 </p>
 
-- 👨‍💻 Software Engineer na  <a href="https://www.kunumi.com/">**Kunumi**</a>.
+- 👨‍💻 Software Engineer na <a href="https://www.kunumi.com/">**Kunumi**</a>.
 - 🚀 Estudante de Engenharia de Software, 8° semestre.
 - 💙 Interesse: Flutter, React (Native/JS), HTML, CSS, JavaScript, Java, Python, Firebase, Node JS, MySql.
-- :video_game: Meu principal hobbie é me divertir jogando com meus amigos :)
+- :video_game: Meu principal hobbie é me divertir jogando com meus amigos ✅ :)
  
   
 </p>
