@@ -29,7 +29,7 @@
 
 - 👨‍💻 Software Engineer na <a href="https://www.kunumi.com/">**Kunumi**</a>.
 - 🚀 Estudante de Engenharia de Software, 8° semestre.
-- 💙 Interesse: Flutter, React (Native/JS), HTML, CSS, JavaScript, Java, Python, Firebase, Node JS, MySql.
+- 💙 Interesse: Flutter, React (Native/JS), HTML, CSS, JavaScript, Java, Python, Firebase, Node JS, MySql e Typescript.
 - :video_game: Meu principal hobbie é me divertir jogando com meus amigos ☕
  
   
