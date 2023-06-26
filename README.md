@@ -2,7 +2,7 @@
 ## Olá Mundo sou Matheus Patriota e crio conteúdo de programação e tecnologia! </h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MatheusPatriota&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPatriota&layout=compact&theme=tokyonight&hide_border=true&format=j%20M%5B%20Y%5D&card_width=480)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPatriota&layout=compact&theme=tokyonight&hide_border=true&format=j%20M%5B%20Y%5D&card)
 <p align="center">
   <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
