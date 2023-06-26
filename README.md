@@ -1,22 +1,10 @@
 
 ## Olá Mundo sou Matheus Patriota e crio conteúdo de programação e tecnologia! </h2>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=MatheusPatriota&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPatriota&layout=compact&theme=tokyonight&hide_border=true&format=j%20M%5B%20Y%5D&card_width=480)
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPatriota&layout=compact&theme=tokyonight&hide_border=true"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=MatheusPatriota&show_icons=true&theme=tokyonight&hide_border=true"
-    />
-  </a>
-
-<div style="display: inline_block"><br>
+  <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Matheus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
